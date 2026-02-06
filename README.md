@@ -1,4 +1,4 @@
-# Task 6 – Sales Trend Analysis Using SQL
+# Sales Trend Analysis Using SQL
 
 ## 📌 Objective
 The objective of this task is to analyze **monthly revenue** and **order volume** from the online sales dataset using SQL aggregation techniques.
